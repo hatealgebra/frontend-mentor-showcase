@@ -1,0 +1,9 @@
+[submodule "newbie/results-summary-component"]
+	path = newbie/results-summary-component
+	url = https://github.com/hatealgebra/results-summary-component-FEM.git
+[submodule "newbie/workit-landing-page"]
+	path = newbie/workit-landing-page
+	url = https://github.com/hatealgebra/workit-landing-page-FEM.git
+[submodule "newbie/meet-landig-page"]
+	path = newbie/meet-landig-page
+	url = https://github.com/hatealgebra/meet-landing-page-FEM.git
