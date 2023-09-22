@@ -13,3 +13,6 @@
 [submodule "intermediate/calculator-app"]
 	path = intermediate/calculator-app
 	url = https://github.com/hatealgebra/calculator-app-FEM.git
+[submodule "intermediate/space-tourism-website"]
+	path = intermediate/space-tourism-website
+	url = https://github.com/hatealgebra/space-tourism-website-FEM.git
