@@ -7,3 +7,6 @@
 [submodule "newbie/meet-landig-page"]
 	path = newbie/meet-landig-page
 	url = https://github.com/hatealgebra/meet-landing-page-FEM.git
+[submodule "space-tourism-website"]
+	path = space-tourism-website
+	url = https://github.com/hatealgebra/space-tourism-website-FEM.git
