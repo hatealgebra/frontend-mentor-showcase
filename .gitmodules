@@ -16,3 +16,6 @@
 [submodule "intermediate/space-tourism-website"]
 	path = intermediate/space-tourism-website
 	url = https://github.com/hatealgebra/space-tourism-website-FEM.git
+[submodule "advanced/pomodoro"]
+	path = advanced/pomodoro
+	url = https://github.com/hatealgebra/pomodoro-app-FEM.git
