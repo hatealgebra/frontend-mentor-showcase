@@ -19,3 +19,6 @@
 [submodule "advanced/pomodoro"]
 	path = advanced/pomodoro
 	url = https://github.com/hatealgebra/pomodoro-app-FEM.git
+[submodule "intermediate/dine-restaurant-website"]
+	path = intermediate/dine-restaurant-website
+	url = https://github.com/hatealgebra/dine-restaurant-website.git
